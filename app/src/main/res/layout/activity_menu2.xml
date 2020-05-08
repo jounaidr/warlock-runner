@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MenuActivity"
+    android:background="@drawable/menu_bg"
+    >
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+
+        android:layout_above="@id/start"
+        android:layout_centerHorizontal="true"
+
+        android:layout_marginBottom="120dp"
+        android:gravity="center"
+        android:shadowColor="#000000"
+        android:shadowDx="1.5"
+        android:shadowDy="1.3"
+        android:shadowRadius="1.6"
+        android:text="WARLOCK RUNNER"
+        android:textAllCaps="true"
+        android:textColor="@android:color/holo_purple"
+
+        android:textSize="@android:dimen/app_icon_size"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="START GAME" />
+
+    <Button
+        android:id="@+id/exit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/start"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="  EXIT GAME  " />
+
+    <Button
+        android:id="@+id/help"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/exit"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:text="        HELP        " />
+
+</RelativeLayout>
