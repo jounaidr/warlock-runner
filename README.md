@@ -19,8 +19,7 @@ The game includes two optimisation features, an FPS cap at 30, and multithreadin
 
 The app launches with the menu activity allowing the user to navigate through the different activities.
 
-![](RackMultipart20200828-4-oqzpaz_html_935bf8ab3594c9e6.gif) ![](RackMultipart20200828-4-oqzpaz_html_96b2e3d1783b7e98.jpg)
-
+![DocResources/fig_1.jpg](https://github.com/jounaidr/warlock-runner/blob/master/DocResources/fig_1.jpg)
 _Figure 1 - Main Menu_
 
 When a game is started, the orientation will switch to landscape and the game will begin. The player will spawn at the centre left of the screen and will begin at level 1. The text in the bottom left prints out the current level and the text on the right prints out the current score.
