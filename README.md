@@ -25,7 +25,7 @@ _Figure 1 - Main Menu_
 
 When a game is started, the orientation will switch to landscape and the game will begin. The player will spawn at the centre left of the screen and will begin at level 1. The text in the bottom left prints out the current level and the text on the right prints out the current score.
 
-![](RackMultipart20200828-4-oqzpaz_html_2878696cf1c8c759.png)
+![DocResources/fig_2.png](https://github.com/jounaidr/warlock-runner/blob/master/DocResources/fig_2.png)
 
 _Figure 2 - Gameplay_
 
@@ -33,19 +33,19 @@ As the game progresses, the score and level will increase, resulting in more dif
 
 Eventually, the player will die, and all game functions will pause momentarily whilst the death message displays.
 
-![](RackMultipart20200828-4-oqzpaz_html_917686aa171111b8.png)
+![DocResources/fig_3.png](https://github.com/jounaidr/warlock-runner/blob/master/DocResources/fig_3.png)
 
 _Figure 3 - Death Message_
 
 Promptly after this, the activity will switch to the game over activity.
 
-![](RackMultipart20200828-4-oqzpaz_html_c76be94f8811adc6.png)
+![DocResources/fig_4.png](https://github.com/jounaidr/warlock-runner/blob/master/DocResources/fig_4.png)
 
 _Figure 4 - Game Over_
 
 The player has the option to return to the main menu, where they can then either exit the game, play again or view the help text.
 
-![](RackMultipart20200828-4-oqzpaz_html_96c3fcf80470ed61.png)
+![DocResources/fig_5.png](https://github.com/jounaidr/warlock-runner/blob/master/DocResources/fig_5.png)
 
 _Figure 5 - Help Text_
 
@@ -53,4 +53,4 @@ The help activity displays text containing information about the game, levels, a
 
 **Class diagram:**
 
-![](RackMultipart20200828-4-oqzpaz_html_c1e2d2fc02d14d69.png)
+![DocResources/class diagram.png](https://github.com/jounaidr/warlock-runner/blob/master/DocResources/class%20diagram.png)
