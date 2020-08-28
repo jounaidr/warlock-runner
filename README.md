@@ -13,7 +13,7 @@ There are four activities: a main menu activity allowing for navigation of other
 
 Each activity (other than help activity) has its own music. The menu and game background songs loop indefinitely, whilst the game-over activity will play the death sound once.
 
-The game includes two optimisation features, an FPS cap at 30, and multithreading in each enemies update method. These features will be explained fully further down in the report.
+The game includes two optimisation features, an FPS cap at 30, and multithreading in each enemies update method.
 
 **App Showcase:**
 
