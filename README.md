@@ -54,3 +54,5 @@ The help activity displays text containing information about the game, levels, a
 **Class diagram:**
 
 ![DocResources/class diagram.png](https://github.com/jounaidr/warlock-runner/blob/master/DocResources/class%20diagram.png)
+
+Classes located at: app/src/main/java/com/example/javagame
