@@ -1,3 +1,4 @@
+# Warlock Runner
 Warlock Runner is a top-down scrolling infinite runner game (same genre as temple runner) that includes some bullet hell genre aspects such as dodging/killing enemies.
 
 Score is gained over time, with each enemy also being worth a certain amount of score upon death depending on that enemy&#39;s difficulty. The level will increase when a score threshold has been met, resulting in the next tier of enemy to spawn, and the previous tiers to increase their respective spawn rates. If any enemy or enemy bullets are to hit the player, they will die.
