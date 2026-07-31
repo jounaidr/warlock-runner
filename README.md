@@ -1,10 +1,3 @@
-# warlock-runner
-This project was completed as part of my second year Computer Science degree Java module. The finished application is a fully playable Android game made using Java with some optimizations (such as multi-threading) to increase performance. This project was purely for educational purposes and no commercial profit was, or is to be made.
-
-please not I was new to Java when I made this project, for a more recent project of mine, check out [jrc-node](https://github.com/jounaidr/jrc-node) =)
-
-**Abstract:**
-
 Warlock Runner is a top-down scrolling infinite runner game (same genre as temple runner) that includes some bullet hell genre aspects such as dodging/killing enemies.
 
 Score is gained over time, with each enemy also being worth a certain amount of score upon death depending on that enemy&#39;s difficulty. The level will increase when a score threshold has been met, resulting in the next tier of enemy to spawn, and the previous tiers to increase their respective spawn rates. If any enemy or enemy bullets are to hit the player, they will die.
